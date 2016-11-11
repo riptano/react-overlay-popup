@@ -13,6 +13,7 @@
     "start": "nwb serve",
     "test": "nwb test"
   },
+  "postinstall": "nwb build",
   "dependencies": {
     "invariant": "^2.2.0"
   },
