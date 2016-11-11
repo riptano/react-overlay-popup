@@ -4,12 +4,6 @@
   "description": "Overlay and popup components for React.",
   "main": "lib/index.js",
   "jsnext:main": "es6/index.js",
-  "files": [
-    "css",
-    "es6",
-    "lib",
-    "umd"
-  ],
   "standard": {
     "parser": "babel-eslint"
   },
@@ -37,11 +31,11 @@
     "standard": "^6.0.5"
   },
   "author": "Thai Pangsakulyanont @ Taskworld <thai.p@taskworld.com>",
-  "homepage": "https://github.com/taskworld/react-overlay-popup#readme",
+  "homepage": "https://github.com/riptano/react-overlay-popup#readme",
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/taskworld/react-overlay-popup.git"
+    "url": "git+ssh://git@github.com:riptano/react-overlay-popup.git#master"
   },
   "keywords": [
     "react-component"
