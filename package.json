@@ -8,12 +8,12 @@
     "parser": "babel-eslint"
   },
   "scripts": {
+    "postinstall": "nwb build",
     "build": "nwb build",
     "clean": "nwb clean",
     "start": "nwb serve",
     "test": "nwb test"
   },
-  "postinstall": "nwb build",
   "dependencies": {
     "invariant": "^2.2.0"
   },
